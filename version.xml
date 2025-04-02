@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<version>
+  <application>customContributorFields</application>
+  <type>plugins.generic</type>
+  <release>1.0.0</release>
+  <date>2025-04-02</date>
+  <lazyLoad>true</lazyLoad>
+  <sitewide>false</sitewide>
+  <install>
+    <sql>sql/install.sql</sql>
+  </install>
+</version>

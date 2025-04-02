@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+<locale name="en_US" full_name="English">
+
+  <!-- Plugin name and description -->
+  <message key="plugins.generic.customContributorFields.name">Custom Contributor Fields</message>
+  <message key="plugins.generic.customContributorFields.description">Add custom metadata fields to contributor forms and user profiles.</message>
+  <message key="plugins.generic.customContributorFields.tabName">Contributor Fields</message>
+
+  <!-- Grid interface -->
+  <message key="plugins.generic.customContributorFields.grid.title">Custom Contributor Fields</message>
+  <message key="plugins.generic.customContributorFields.grid.instructions">Use this interface to manage custom fields that appear on the contributor form and user profiles.</message>
+  <message key="plugins.generic.customContributorFields.grid.name">Field Name</message>
+  <message key="plugins.generic.customContributorFields.grid.type">Field Type</message>
+  <message key="plugins.generic.customContributorFields.grid.required">Required</message>
+  <message key="plugins.generic.customContributorFields.grid.public">Public</message>
+  <message key="plugins.generic.customContributorFields.confirmDelete">Are you sure you want to delete this field?</message>
+
+  <!-- Form labels -->
+  <message key="plugins.generic.customContributorFields.fieldName">Field Name</message>
+  <message key="plugins.generic.customContributorFields.fieldType">Field Type</message>
+  <message key="plugins.generic.customContributorFields.required">Required Field</message>
+  <message key="plugins.generic.customContributorFields.requiredLabel">This field must be filled in</message>
+  <message key="plugins.generic.customContributorFields.public">Publicly Visible</message>
+  <message key="plugins.generic.customContributorFields.publicLabel">Show on public contributor page</message>
+  <message key="plugins.generic.customContributorFields.showOnForm">Show in Submission Form</message>
+  <message key="plugins.generic.customContributorFields.showOnFormLabel">Visible when adding a contributor</message>
+  <message key="plugins.generic.customContributorFields.showOnProfile">Show in User Profile</message>
+  <message key="plugins.generic.customContributorFields.showOnProfileLabel">Visible on user profile</message>
+
+  <!-- Actions -->
+  <message key="plugins.generic.customContributorFields.editField">Edit Field</message>
+
+</locale>
